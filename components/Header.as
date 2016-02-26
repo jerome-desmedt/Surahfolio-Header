@@ -14,8 +14,8 @@ package components
 	[SWF(backgroundColor="0x675E6C", frameRate="40"]
 	public class Header extends Sprite
 	{
-		public var 			dataXML			:XML;	
-		private var 			btn					:HeadButton;
+		public var 		dataXML		:XML;	
+		private var 		btn		:HeadButton;
 		
 		public function Header(xml:Object):void
 		{

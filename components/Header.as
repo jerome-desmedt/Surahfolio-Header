@@ -1,3 +1,9 @@
+/**
+ * VERSION: 1.0
+ * DATE: 15/09/2015
+ * ActionScript 3
+ * AUTHOR: J. De Smedt
+ **/
 package components
 {
 	import com.greensock.TweenMax;
